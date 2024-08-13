@@ -1,0 +1,26 @@
+img {
+  width: 500px;
+}
+
+body {
+  text-align: center;
+  font-family: "Sofia", sans-serif;
+  background: #FAEBD7;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-decoration-line: underline;
+  font-family: "Sofia", sans-serif;
+}
+h3 {
+  text-decoration-line: underline;
+  font-family: "Sofia", sans-serif;
+}
+ul {
+  text-align: left;
+}
+ol {
+  text-align: left;
+}

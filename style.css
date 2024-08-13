@@ -1,0 +1,22 @@
+img {
+  width: 500px;
+}
+
+body {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  background: #FAEBD7;
+
+}
+
+button {
+  display: block;
+  background-color: rgb(215, 155, 228);
+  font-family: 'Times New Roman', cursive;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  border: 2px solid black;
+  border-radius: 15px;
+  height: 20%;
+}
